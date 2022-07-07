@@ -1,4 +1,4 @@
 # Actividad-Grupal
-Pedro
+Pedro de la Prieta
 Mauro Tapia
 Pablo Trivino
